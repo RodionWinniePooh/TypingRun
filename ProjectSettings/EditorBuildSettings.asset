@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Menu.unity"
+    guid: a1b5403a6c1ce284c8390ac38b387cc2
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Game.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/GameBonus.unity"
+    guid: 88cc182b454e5ea4786fcd03e103131c
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Game1.unity"
+    guid: 572c63401ba75254e916a12f147bca6f
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Game1Bonus.unity"
+    guid: 59262bb8a5fd32348a4f63f922d2bdea
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Game2.unity"
+    guid: 5b9499de20e46834a9ab95ec18ab34c9
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Game2Bonus.unity"
+    guid: 6bab36e4771ca9c45b229652ab294fa1
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Shop.unity"
+    guid: 4dd80f4eb34e43342a9d64eea631a949
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/Person.unity"
+    guid: 6f184efc618793440a46727ee26faaa4
+  - enabled: 1
+    path: "Assets/\u0421\u0446\u0435\u043D\u044B/MenuEndLevel.unity"
+    guid: 6646aa56394416d45bf51c67e3347ce1
+  m_configObjects: {}
