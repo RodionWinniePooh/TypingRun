@@ -1,4 +1,4 @@
-# 🎮 Typing-Run Game
+# 🎮 TypingRun Game
 Keyboard trainer.
 
 Typing-Run is an offline game with bots.  
@@ -34,4 +34,10 @@ The type of bot depends on the level.
 This project has been tested and placed in the Play Market.
 
 Download link https://play.google.com/store/apps/details?id=com.TypingRun.TypingRun
+
+
+
+![typing run1](https://user-images.githubusercontent.com/45859046/219977180-e93ada87-76d6-4f0d-9ccc-6929c79643cf.png)
+![typing run 3](https://user-images.githubusercontent.com/45859046/219977189-d125df95-791c-41f5-8248-74ece2357e8c.png)
+![typing run 2](https://user-images.githubusercontent.com/45859046/219977199-63e00d03-acc0-4be2-912a-ac481aa879d5.png)
 
